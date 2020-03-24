@@ -1,2 +1,5 @@
-# Introduction-to-Classification
-This module introduces classification — you will be implementing the various techniques such as k-nearest neighbors and Support Vector Machines. You will be using the Euclidean distance to work with the k-nearest neighbors.
+# Introduction to Classification
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Classification.svg)](https://github.com/Develop-Packt/Introduction-to-Classification/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Classification.svg)](https://github.com/Develop-Packt/Introduction-to-Classification/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-Classification.svg)](https://github.com/Develop-Packt/Introduction-to-Classification/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Classification/pulls)
